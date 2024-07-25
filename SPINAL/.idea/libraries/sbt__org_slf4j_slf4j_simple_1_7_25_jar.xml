@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.slf4j:slf4j-simple:1.7.25:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

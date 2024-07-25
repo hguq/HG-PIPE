@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.spinalhdl:spinalhdl-idsl-payload_2.11:1.7.1:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/github/spinalhdl/spinalhdl-idsl-payload_2.11/1.7.1/spinalhdl-idsl-payload_2.11-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/github/spinalhdl/spinalhdl-idsl-payload_2.11/1.7.1/spinalhdl-idsl-payload_2.11-1.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/github/spinalhdl/spinalhdl-idsl-payload_2.11/1.7.1/spinalhdl-idsl-payload_2.11-1.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

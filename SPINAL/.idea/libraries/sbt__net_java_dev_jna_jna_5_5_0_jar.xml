@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: net.java.dev.jna:jna:5.5.0:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.5.0/jna-5.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.5.0/jna-5.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

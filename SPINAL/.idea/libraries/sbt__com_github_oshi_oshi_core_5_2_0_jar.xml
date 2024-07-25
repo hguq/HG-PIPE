@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.oshi:oshi-core:5.2.0:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/github/oshi/oshi-core/5.2.0/oshi-core-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/github/oshi/oshi-core/5.2.0/oshi-core-5.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/github/oshi/oshi-core/5.2.0/oshi-core-5.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
